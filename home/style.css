@@ -78,6 +78,7 @@ header h1 {
 {
   transform: scale(0.7);
   transition: 0.5s;
+  padding: 5px;
   margin: 5px auto;
 }
 .social img:hover {
