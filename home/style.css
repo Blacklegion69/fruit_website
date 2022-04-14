@@ -79,6 +79,15 @@ header h1 {
   transform: scale(0.7);
   margin: 5px auto;
 }
+.social img:hover {
+   background: rgba( 225, 225, 225, 0.2 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.30 );
+  backdrop-filter: blur( 9px );
+  -webkit-backdrop-filter: blur( 9px );
+  border-radius: 5px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+ 
+}
 .content 
 {
   width: 100%;
